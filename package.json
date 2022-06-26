@@ -2,5 +2,24 @@
   "dependencies": {
     "express": "^4.18.1",
     "mongoose": "^6.4.0"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "nosql-social-network-challenge",
+  "description": "",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edlebeck/nosql-social-network-challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edlebeck/nosql-social-network-challenge/issues"
+  },
+  "homepage": "https://github.com/edlebeck/nosql-social-network-challenge#readme"
 }
